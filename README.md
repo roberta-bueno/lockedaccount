@@ -24,5 +24,5 @@ This guide provides an overview of the steps for helping someone with a locked a
    <p align="center">
   <img src="https://github.com/roberta-bueno/lockedaccount/assets/135675237/aa5f8c6f-9718-403c-a33e-8fc5dfdb59ce" height="60%" width="60%" alt="User Properties" /></p>
    <p align="center">
-  <img src="https://github.com/roberta-bueno/lockedaccount/assets/135675237/d08a059a-4852-4a96-aefe-002bcdc6dd65" height="60%" width="60%" alt="Unlock" /></p>
+  <img src="https://github.com/roberta-bueno/lockedaccount/assets/135675237/22283f3f-9914-4647-9d3d-0d0d1d4d9350" height="60%" width="60%" alt="Unlock" /></p>
   
