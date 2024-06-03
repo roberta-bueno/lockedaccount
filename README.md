@@ -18,7 +18,7 @@ This guide provides an overview of the steps for helping someone with a locked a
 </ul>
 
 <h3>Step 1: Go to Active Directory</h3>
-  - Go to folder that their user is, double click on it, click on account and then unlock.
+  - Go to the folder that their user is, double click on it, click on account and then unlock.
     <p align="center">
   <img src="https://github.com/roberta-bueno/lockedaccount/assets/135675237/ccd1d362-0902-4e30-8bcb-f2b420f6c29f" height="60%" width="60%" alt="Locked account" /></p>
    <p align="center">
